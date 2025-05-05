@@ -1,5 +1,6 @@
 # Run-Honkai-Without-Hoyoplay
 Play your Hoyoverse Game without launch Hoyoplay
+
 This project provides a PowerShell script and a batch file to run Honkai Impact without needing to launch Hoyoplay. The script creates a scheduled task that allows you to start the game directly from your desktop.
 
 ## Disclaimer
