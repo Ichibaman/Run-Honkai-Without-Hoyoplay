@@ -51,6 +51,7 @@ If any errors occur during the execution of the script, they will be displayed i
 ## Cleanup/Uninstall
 
 To remove the scheduled task and the desktop shortcut, you can manually delete the shortcut and use the Task Scheduler to delete the task named "Honkai".
+
 ![easysteps](https://github.com/Ichibaman/Run-Honkai-Without-Hoyoplay/blob/main/image/TaskScheduler1.png)
 ![easysteps](https://github.com/Ichibaman/Run-Honkai-Without-Hoyoplay/blob/main/image/TaskScheduler.png)
 
