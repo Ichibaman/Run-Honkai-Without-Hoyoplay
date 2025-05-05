@@ -38,11 +38,13 @@ This script is provided as-is without any warranty. Use it at your own risk. Ens
    - **User Account Control (UAC)**: When prompted by User Account Control, click "Yes" to allow the script to run with administrative privileges.
 
 4. **Select the Executable**: A file dialog will open. Navigate to the location of the Honkai Impact executable file (e.g., `D:\Honkai Impact 3 sea\Games\BH3.exe`) and select it. If you dont know where the executable file you can check in Hoyoplay "Game Settings" and "Open Directory".
+
 ![easysteps](https://github.com/Ichibaman/Run-Honkai-Without-Hoyoplay/blob/main/image/GameSettings.png)
 
 5. **Wait** till script done and press enter to close script.
 
 6. **Launch the Game**: A shortcut named "Run Honkai" will be created on your desktop. Double-click this shortcut to launch Honkai Impact directly. Enjoy your game with simple click.
+
 ![easysteps](https://github.com/Ichibaman/Run-Honkai-Without-Hoyoplay/blob/main/image/Shortcut.png)
 
 ## Error Handling
